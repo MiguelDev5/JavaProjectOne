@@ -60,6 +60,5 @@ Este proyecto implementa conceptos fundamentales de **Programación Orientada a 
 Para compilar y ejecutar el proyecto desde consola:
 
 ```bash
-javac EjecutarClases.java
-java EjecutarClases
-
+javac HolaMundo.java
+java HolaMundo
