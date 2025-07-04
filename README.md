@@ -37,7 +37,7 @@ Este proyecto implementa conceptos fundamentales de **Programación Orientada a 
 | `clases/ConstantesApp.java` | Clase que contiene constantes globales utilizadas en la aplicación.              |
 | `clases/Delfin.java`   | Subclase de `Animal` que implementa la interfaz `Nadador`.                   |
 | `clases/Dormilon.java` | Interfaz que define el método `dormir()`.                                   |
-| `clases/Gato.java`     | Subclase de `Animal` que implementa las interfaces `Dormilon` y `Volador`.   |
+| `clases/Gato.java`     | Subclase de `Animal` que implementa la interface `Dormilon`.   |
 | `clases/Nadador.java`  | Interfaz que define el método `nadar()`.                                     |
 | `clases/Pajaro.java`   | Subclase de `Animal` que implementa `Volador`.                               |
 | `clases/Perro.java`    | Subclase de `Animal` que implementa `Dormilon`.                              |
